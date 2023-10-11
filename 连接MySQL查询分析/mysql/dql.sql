@@ -1,0 +1,2 @@
+select  *
+from hive_liuan_tool_matrix_mau_dau_zhuangji
